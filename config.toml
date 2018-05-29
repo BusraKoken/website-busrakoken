@@ -1,0 +1,52 @@
+## Basic Configuration
+
+baseurl = "https://busrakoken.github.io/" 
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Busra Koken"
+title = "Busra Koken"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Busra Koken"
+intro = "Software Engineer"
+description = "Currently @trivago. Blogger, Photographer. Learning, discovering, collecting stories every single day -sometimes I give talks about them."
+authorimage = "headshot.jpg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Simple minimalist theme"
+keywords = "minimalist,blog,goa,hugo,developer"
+
+## Social Accounts
+[params.social]
+linkedin = "busrakoken"
+github = "busrakoken"
+instagram = "busrakoken"
+twitter = "busrakoken"
+email = "busrakoken@gmail.com"
+
+## Extras
+[params.extra]
+copyright = "© 2018. Busra Koken. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+poweredby = true
+hightlightjs = true
+
+[[menu.main]]
+    # name = "talks"
+    # identifier = "talks"
+    # weight = 200
+    # url = "/talks/"
