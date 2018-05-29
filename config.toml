@@ -22,7 +22,7 @@ enableRobotsTXT = true
 [params]
 author = "Busra Koken"
 intro = "Software Engineer"
-description = "Currently @trivago. Blogger, Photographer. Learning, discovering, collecting stories every single day -sometimes I give talks about them."
+description = "Currently [@trivago](https://www.trivago.com/). Blogger, Photographer. Learning, discovering, collecting stories every single day — sometimes I give talks about them."
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
 
