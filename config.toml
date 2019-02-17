@@ -2,7 +2,7 @@
 
 baseurl = "https://busrakoken.com/" 
 builddrafts = false
-canonifyurls = false
+canonifyurls = true
 languageCode = "en-US"
 
 contentdir = "content"
@@ -41,7 +41,7 @@ email = "busrakoken@gmail.com"
 
 ## Extras
 [params.extra]
-copyright = "© 2018. Busra Koken. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+copyright = "© 2018. Busra Koken. [Some Rights Reserved](https://creativecommons.org/licenses/by/3.0/)." 
 poweredby = true
 hightlightjs = true
 
