@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "//busrakoken.com/" 
+baseurl = "www.busrakoken.com" 
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
