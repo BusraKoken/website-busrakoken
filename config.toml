@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "www.busrakoken.com" 
+baseurl = "https://www.busrakoken.com/" 
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
@@ -21,8 +21,9 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Busra Koken"
-intro = "Software Engineer"
-description = "Currently [@trivago](https://www.trivago.com/). Blogger, Photographer. Learning, discovering, collecting stories every single day — sometimes I give talks about them."
+intro = "Site Reliability | Infrastrucure | DevOps"
+description = "Passionate SRE with obsessions about DevOps engineering culture(real one), automation, documentation, diversity and mental health. Also insterested in photography, psyhcology and writing."
+#description = "Currently [@trivago](https://www.trivago.com/). Blogger, Photographer. Learning, discovering, collecting stories every single day — sometimes I give talks about them."
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
 
@@ -41,7 +42,7 @@ email = "busrakoken@gmail.com"
 
 ## Extras
 [params.extra]
-copyright = "© 2018. Busra Koken. [Some Rights Reserved](https://creativecommons.org/licenses/by/3.0/)." 
+copyright = "© 2021. Busra Koken. [Some Rights Reserved](https://creativecommons.org/licenses/by/3.0/)." 
 poweredby = true
 hightlightjs = true
 
