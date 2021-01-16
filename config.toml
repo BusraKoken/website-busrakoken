@@ -22,7 +22,7 @@ enableRobotsTXT = true
 [params]
 author = "Busra Koken"
 intro = "Site Reliability | Infrastrucure | DevOps"
-description = "Passionate SRE with obsessions about DevOps engineering culture(real one), automation, documentation, diversity and mental health. Also insterested in photography, psyhcology and writing."
+description = "Passionate SRE with obsessions about DevOps engineering culture(real one), automation, documentation, diversity and mental health. Also insterested in photography, psyhcology, writing and public speaking."
 #description = "Currently [@trivago](https://www.trivago.com/). Blogger, Photographer. Learning, discovering, collecting stories every single day — sometimes I give talks about them."
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
@@ -47,7 +47,7 @@ poweredby = true
 hightlightjs = true
 
 [[menu.main]]
-    # name = "talks"
-    # identifier = "talks"
-    # weight = 200
-    # url = "/talks/"
+    name = "Conference talks"
+    identifier = "talks"
+    weight = 200
+    url = "/talks/"
