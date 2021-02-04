@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "https://www.busrakoken.com/" 
+baseurl = "https://www.busrakoken.com/"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
@@ -22,7 +22,7 @@ enableRobotsTXT = true
 [params]
 author = "Busra Koken"
 intro = "Site Reliability | Infrastrucure | DevOps"
-description = "Passionate SRE with obsessions about DevOps engineering culture, automation, documentation, diversity and mental health. Also interested in photography, psychology, writing and public speaking."
+description = "Passionate SRE with obsessions about DevOps engineering culture, automation, documentation, diversity and mental health. Also interested in photography, psychology, writing and public speaking. More about me is [here](https://github.com/busrakoken/aboutme)."
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
 
@@ -41,7 +41,7 @@ email = "busrakoken@gmail.com"
 
 ## Extras
 [params.extra]
-copyright = "© 2021. Busra Koken. [Some Rights Reserved](https://creativecommons.org/licenses/by/3.0/)." 
+copyright = "© 2021. Busra Koken. [Some Rights Reserved](https://creativecommons.org/licenses/by/3.0/)."
 poweredby = true
 hightlightjs = true
 

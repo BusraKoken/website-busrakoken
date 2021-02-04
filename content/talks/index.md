@@ -4,7 +4,7 @@ comments = false
 date = ""
 draft = false
 slug = ""
-tags = ["tals"]
+tags = ["talks"]
 title = "Conference Talks"
 
 showpagemeta = false
