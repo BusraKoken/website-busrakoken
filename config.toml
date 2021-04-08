@@ -21,7 +21,7 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Busra Koken"
-intro = "Site Reliability | Infrastrucure | DevOps"
+intro = "Site Reliability | Infrastructure | DevOps"
 description = "Passionate SRE with obsessions about DevOps engineering culture, automation, documentation, diversity and mental health. Also interested in photography, psychology, writing and public speaking. More about me is [here](https://github.com/busrakoken/aboutme)."
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
